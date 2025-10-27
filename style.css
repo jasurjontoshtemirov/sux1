@@ -510,6 +510,9 @@ ection */
     .hero {
         padding: 100px 0 60px;
     }
+    .btn-secondary{
+        margin-top: 50px;
+    }
 
     .hero-text h1 {
         font-size: 2rem;
